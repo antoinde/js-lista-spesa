@@ -1,0 +1,22 @@
+.container{
+    background-image:url(https://www.collinsdictionary.com/images/full/supermarket_406913140_1000.jpg);
+    filter: opacity(0.8);
+    margin: 50px auto;
+    max-width: 600px;
+    background-color: brown;
+    color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    border: 20px solid black;
+}
+h1{
+    text-align: center;
+}
+.lista{
+    position: relative;
+    left: 50%;
+    width: 40%;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(165, 42, 42, 0.8);
+}
